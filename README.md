@@ -9,7 +9,7 @@
 <h3 align="center">Certification in Web Development from the University of Denver(2023)</h3>
 </br>
 <p align="center">
-  <img src="./images/mountins.jpg" height="500em" width="68%" style="border: 3px solid mintgreen;">
+  <img src="./images/mountins.jpg" height="500em" style="border: 3px solid mintgreen;">
 </p>
 
 <br>
