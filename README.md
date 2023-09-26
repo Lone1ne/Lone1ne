@@ -31,7 +31,7 @@
 </table>
 </br>
 
-<table width="100%" >
+<table width="100%" align="center" >
   <tr width="100%" align="center">
     <td width="50%">
       <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lone1ne&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
