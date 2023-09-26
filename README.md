@@ -32,13 +32,13 @@
 </br>
 
 <table width="100%" >
-  <tr width="100%">
-    <td width="50%" align="center">
+  <tr width="100%" align="center">
+    <td width="50%">
       <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lone1ne&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     </td>
   </tr>
-  <tr width="100%">
-    <td align="center">
+  <tr width="100%" align="center">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lone1ne&layout=compact&theme=gotham"/>
     </td>
   </tr>
