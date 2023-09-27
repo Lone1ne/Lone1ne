@@ -12,35 +12,29 @@
   <img src="./images/mountins.jpg" width="80%" style="border: 3px solid mintgreen;">
 </p>
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <h2 >About Me:</h2>
-      <p align="center">- 🌱 I’m currently learning React Native for mobile development.</p>
-      <p align="center">- 💬 Ask me about Web Development, JavaScript, and Python!</p>
-      <p align="center">- 📫 How to reach me: derekszcz45@gmail.com</p>
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-      <h2 >Technologies: </h2>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=github,js,react,nodejs,express,mongodb,apollo,graphql,mysql,sequelize,heroku,html,css,regex,jest,bootstrap,vscode,discord&perline=9" />
-      </p>
-    </td>
-  </tr>
-</table>
 
-<table width="100%" >
+ 
+    
+<h2 >About Me:</h2>
+<p align="center">- 🌱 I’m currently learning React Native for mobile development.</p>
+<p align="center">- 💬 Ask me about Web Development, JavaScript, and Python!</p>
+<p align="center">- 📫 How to reach me: derekszcz45@gmail.com</p>
+    
+<h2 >Technologies: </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,js,react,nodejs,express,mongodb,apollo,graphql,mysql,sequelize,heroku,html,css,regex,jest,bootstrap,vscode,discord&perline=9" />
+</p>
+    
+
+
+
 <h2>My Stats:</h2>
-  <tr width="100%">
-    <td width="50%" align="center">
-      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lone1ne&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    </td>
-  </tr>
-  <tr width="100%">
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lone1ne&layout=compact&theme=gotham"/>
-    </td>
-  </tr>
-</table>
+  <p width="50%" align="center">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lone1ne&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  </p>
+  
+ <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lone1ne&layout=compact&theme=gotham"/>
+ </p>
+ 
+
