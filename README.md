@@ -11,14 +11,6 @@
 <p align="center">
   <img src="./images/mountins.jpg" width="80%" style="border: 3px solid mintgreen;">
 </p>
-
-
- 
-    
-<h2 >About Me:</h2>
-<p align="center">- 🌱 I’m currently learning React Native for mobile development.</p>
-<p align="center">- 💬 Ask me about Web Development, JavaScript, and Python!</p>
-<p align="center">- 📫 How to reach me: derekszcz45@gmail.com</p>
     
 <h2 >Technologies: </h2>
 <p align="center">
